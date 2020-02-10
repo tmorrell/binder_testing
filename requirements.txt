@@ -5,5 +5,4 @@ scipy
 sklearn
 bebi103
 matplotlib
-mpl_toolkits
 seaborn
