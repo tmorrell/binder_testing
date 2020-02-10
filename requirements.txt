@@ -3,7 +3,7 @@ numba
 pandas
 scipy
 sklearn
-skimage
+scikit-image
 bebi103
 matplotlib
 seaborn
